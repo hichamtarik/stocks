@@ -1,0 +1,2 @@
+# stocks
+laravel stock
